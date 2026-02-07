@@ -2,6 +2,13 @@
 
 Upload a PDF and chat with it using 3 different chunking strategies side-by-side. Compare Fixed-Size, Recursive, and Semantic chunking to see which retrieval approach works best for your document.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/97a57f02-019d-4753-94bd-07412277d323
+
+
+
 ## Setup
 
 ### Install dependencies with uv
